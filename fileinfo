@@ -111,7 +111,7 @@ sound_t_53_ing_chat_12_m,TM4M1tyfCFD8D1y0OjVRciDG+1k=,15200,0,iZsAXX0EpCvtoubtT0
 sound_t_53_ing_chat_31_f,egBzrUpDaP0HGcCkURYO3Q0MnYI=,8352,0,y103dmb375BHxXG7f/d5FeWH/gE=,5736,True,0
 female_gb_ct_execution_anim,lGDZPcmoU29dbzEQS6T4UxQTZEE=,146624,0,hZHeaW1wuY1Vn82QBYjp7Z+cxjU=,100186,True,0
 sound_t_53_ing_chat_14_f,HzXYzsInHn75LGlFkssX66gb/NE=,16320,0,4ijAof0PehSGOB8WKeWPoiWU+rg=,13721,True,0
-gameassetbundles,CONLHbG2Df/hxJT4N2mkxVfOi24=,13952,0,AaNuri7vRNHj4yRcv1Ip1GmiF2o=,6245,True,0
+gameassetbundles,7fsDOz3ma2T9etsW/IG854B5vTI=,13952,0,pQVKgTNulX7ZINefipGD/nNmUSU=,6245,True,0
 sound_t_53_ing_chat_10_f,jjk+5eoO688jzAU9Y9RrFQ6iZOQ=,11424,0,p4e9po0Fme3zAjV9tPWd9aByVQQ=,8885,True,0
 config_csavatardata,LNoi0wZ+cYKh5A9mlfUyZ0gOS24=,39104,0,S9TMkQ71zPFntin0vDK6nQrE4qs=,11737,True,0
 sound_t_53_ing_chat_33_m,PHZ3uwL0vfd8PlTOPr7S59u9Fig=,16544,0,1z86wF1/1zKsU6k+08cPLN/OmLE=,14027,True,0
@@ -124,14 +124,14 @@ config/clothesrecipesbytes,5iNFNf0R90T2fagWUC1FZECxY30=,633552,0,0yclOYTkpbeUDPh
 config/clothesslotoverlays,AzXc67vz5Cx/F5XJ18Lcx/ugxQk=,1099008,0,+Mu0yQSaY99XNoCyObVYu85bkWo=,510584,True,0
 config/resconfhotupdate,7CDAeodsieWMCJdYZpi+5boJ0Nk=,33664,0,wS214uwCQs9Q70J83xIo+4rSyzI=,3831,True,0
 config/clothesrecipes,tXpWgx9jaoXbhRns1/bCXVVse88=,2960,0,g/yPYFTOUFjD58zSGMMeqQ7RiIo=,948,True,0
-codepatch/assembly-csharp-patch,Yjxm2wNv8QrHhqWg335AGGMYPec=,131520,0,277NTdQ7VfkVzEZQhxauZotfBxQ=,27463,True,0
+codepatch/assembly-csharp-patch,mP8vv34BYFm0XOE9kt5LM/8qSFU=,137472,0,QJP+TsS0YSULDp8qreDfikhjrQY=,28595,True,0
 avatar/assetindexer,bTVjvBfVX2kkuGWaM5e+5lSekmY=,40677,0,fsw2J8d7O4hHtjZUQ/w40HqKQXw=,13272,True,0
 main/gameentry,ou98Yv7vACB/Y7s0V054zl52I+Q=,15456,0,J5vflR885GC+ChFBEqYDXFFh6U0=,3669,True,0
-localization/lochotfix,tcelbqPBTYTJr3RhVSv0LcjDFZo=,434256,0,p24zou5O77G7x0aPTl5QEl9wgrc=,122581,True,0
+localization/lochotfix,P5ahUNYeiOvdn0kJYu+nYAGqDqg=,470144,0,z0AC4QQnUwVloUlizRaKpAF70D0=,134934,True,0
 localization/locabconf,UAjR4dOgpXnYV0PzosSQnLa3cpY=,4064,0,gohJW5d2OFq3Ube6Kk2QR+Gu4oc=,1285,True,0
 avatarassets/ob53/male_shoe_cos_eclipse_moon_slot,g+taRqdSOlzi1wSIDjbupYPD6V8=,165104,0,evquI0uwyL35yO6qsQyhRqfNodI=,53243,True,0
 avatarassets/ob53/male_accessory_cos_eclipse_moon_overlay,ySavR63RKORpOLe92TJbaFEjopE=,145952,0,iWO/lm1ZfVfeRJriUkZC9af04w0=,46657,True,0
-avatarassets/ob53/male_accessory_cos_eclipse_sun_slot,4yYJqn9Q05c6S77w8LXhJQFeVXA=,162240,0,vG0tIV1IM1QZkZ2kDhCARha8jMA=,51113,True,0
+avatarassets/ob53/male_accessory_cos_eclipse_sun_slot,C0QJCUtTP3X7l9D7kwPbK5jkW9E=,160032,0,ticTXx9kBfFbsSZZenglOqrF04w=,49516,True,0
 avatarassets/ob53/male_shoe_cos_eclipse_moon_n_slot,yZKb6eDgIPhA72w92OR9hZWlKqs=,345712,0,gOcqBaYz5IXN1YPtXLxVVpWctQY=,149632,True,0
 avatarassets/ob53/male_shoe_cos_eclipse_sun_overlay_n,UP1tlfXibVlHl0/K4B1+p/w1zu0=,539744,0,AF7Bv8/8VA8r1OsmqKWTFOxgOs4=,190979,True,0
 avatarassets/ob53/male_accessory_cos_eclipse_moon_n_slot,kT+0LqscI9iXeRi3p6i9vjb4uHg=,361008,0,FOyFZctW0uIvmID18qHmGfTBpxk=,157548,True,0
